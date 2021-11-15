@@ -3,6 +3,7 @@
 ## Kalen Oyphanith's Portfolio: Her creations
 
 ### ABOUT ME
+<hr />
 I am a Front-end Developer, musician, and dog lover!
 
 - Currently a senior (4th year) at Rochester Institute of Technology
@@ -10,9 +11,10 @@ I am a Front-end Developer, musician, and dog lover!
 - Minoring in Psychology
 
 ### CONNECT WITH ME:
-Phone: (585) 362-9692
+<hr />
+Phone: (585) 362-9692 
 Email: kmo6884@g.rit.edu
-LinkedIn: [Connect with me!][linkedin]!
+LinkedIn: [Connect with me][linkedin]!
 
 <br />
 Technical Skills:
