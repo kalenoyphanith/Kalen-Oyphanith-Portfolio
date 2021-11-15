@@ -14,7 +14,7 @@ I am a Front-end Developer, musician, and dog lover!
 <hr />
 - Phone: (585) 362-9692 
 - Email: kmo6884@g.rit.edu
-- LinkedIn: [Connect with me][linkedin]!
+- LinkedIn: Connect with me [linkedin]!
 
 <br />
 Technical Skills:
