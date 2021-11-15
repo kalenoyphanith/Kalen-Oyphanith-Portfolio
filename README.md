@@ -1,6 +1,6 @@
 ## Kalen Oyphanith's Portfolio: Her creations
 
-### About me
+## About me
 <hr />
 My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lover!
 
@@ -8,24 +8,24 @@ My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lov
 - Majoring in New Media Interactive Development (BS)
 - Minoring in Psychology
 
-### Projects
+## Projects
 <hr />
 
-# **Big Brain**
+## **Big Brain**
 <br/>
 Mobile Development | May 2021
 - A studying app, written in Kotlin with Android Studio, that enables users to make their own flashcards. They can edit or delete pre-existing ones. A timer can be set as well.
 - This app includes an animation on the home screen and audio for when the timer is up
 Here is the [case study][bigbrain].
 
-# **Social Distancing Arduino**
+## **Social Distancing Arduino**
 <br/>
 Arduino | Spring 2020
 Watch the final product in action!
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
-### Connect with me
+## Connect with me
 <hr />
 
 - Phone: (585) 362-9692 
