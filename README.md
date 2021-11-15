@@ -1,8 +1,6 @@
-### Kalen-Oyphanith-Portfolio
-
 ## Kalen Oyphanith's Portfolio: Her creations
 
-### ABOUT ME
+### About me
 <hr />
 I am a Front-end Developer, musician, and dog lover!
 
@@ -10,11 +8,13 @@ I am a Front-end Developer, musician, and dog lover!
 - Majoring in New Media Interactive Development (BS)
 - Minoring in Psychology
 
-### CONNECT WITH ME:
+### Projects
+
+### Connect with me
 <hr />
-Phone: (585) 362-9692 
-Email: kmo6884@g.rit.edu
-LinkedIn: [Connect with me][linkedin]!
+- Phone: (585) 362-9692 
+- Email: kmo6884@g.rit.edu
+- LinkedIn: [Connect with me][linkedin]!
 
 <br />
 Technical Skills:
