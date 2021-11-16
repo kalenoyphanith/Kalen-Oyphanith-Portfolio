@@ -40,7 +40,7 @@ Mobile Design/Development | Oct 2021
 - Coded in JavaScript and HTML/CSS.
 - Use of local storage to navigate between pages.
 - Media query used since it was aimed to be on mobile devices.
-- View my code: [Repo on Github][valorantwebapp].
+- View my code and live demo: [Repo on Github][valorantwebapp].
 
 <hr>
 
