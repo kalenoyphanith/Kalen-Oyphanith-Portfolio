@@ -12,6 +12,10 @@ My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lov
 <br/>
 Mobile Development | May 2021
 <br>
+- Currently a senior (4th year) at Rochester Institute of Technology
+- Majoring in New Media Interactive Development (BS)
+- Minoring in Psychology
+- 
 - A studying app, written in Kotlin with Android Studio, that enables users to make their own flashcards. They can edit or delete pre-existing ones. A timer can be set as well.
 <br>
 - This app includes an animation on the home screen and audio for when the timer is up
