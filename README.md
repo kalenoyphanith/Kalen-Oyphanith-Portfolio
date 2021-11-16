@@ -1,5 +1,7 @@
 # Portfolio: My creations
 
+<br>
+
 ## Hello! My name is Kalen Oyphanith (Kay-Len Oy-Pah-nith)
 
 <img width="140" alt="db69ba4efae2b0c0031b656090eef6cb-sticker" src="https://user-images.githubusercontent.com/54481648/141889323-150b51b5-3fc6-4844-ab6c-2720967ef728.png">
@@ -14,6 +16,9 @@
 - I am from 📍 Rochester, NY and I love it here even with all the snow.
 - I've been playing the guitar since I was 10 years old and am self taught. 
 - I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
+
+<br>
+<br>
 
 ## Projects
 
@@ -75,10 +80,15 @@ Arduino | May 2020
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
+<br>
+<br>
+
 ## Connect with me
-- Phone: (585) 362-9692 
-- Email: kmo6884@g.rit.edu
-- LinkedIn: [Connect with me][linkedin]!
+Phone: (585) 362-9692
+<br>
+Email: kmo6884@g.rit.edu
+<br>
+LinkedIn: [Connect with me][linkedin]!
 
 ## Resume:
 Link to my Resume: [Resume][resumelink]
