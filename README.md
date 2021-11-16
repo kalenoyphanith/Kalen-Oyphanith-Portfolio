@@ -1,6 +1,6 @@
 # Portfolio: My creations
 
-## My name is Kalen Oyphanith (Kay-Len Oy-Pah-nith)
+## Hello! My name is Kalen Oyphanith (Kay-Len Oy-Pah-nith)
 
 <img width="140" alt="db69ba4efae2b0c0031b656090eef6cb-sticker" src="https://user-images.githubusercontent.com/54481648/141889323-150b51b5-3fc6-4844-ab6c-2720967ef728.png">
 
