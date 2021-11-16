@@ -22,13 +22,13 @@
 
 ## Projects
 
-### **Ranked Choice Voting**
+### **Ranked-Choice Voting**
 React.js Development | Oct 2021
 
-- A working application/prototype of a ranked choice voting system for the NYC democratic primary ballot.
+- A working application/prototype of a ranked-choice voting system for the NYC democratic primary ballot.
 - Collaborated with a team of five designers and two other developers.
 - Coded the onboarding and final submission screens using React.js and react-slick along with creating all the buttons utilizing carbon design's system and guidelines. 
-- ICSS was also utilized to have an organized css structure.
+- ICSS was also utilized to have an organized CSS structure.
 - See the live demo: [Demo][rcv] - best viewed in 1920x1080 
 
 <hr>
