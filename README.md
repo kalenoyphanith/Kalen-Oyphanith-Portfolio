@@ -23,16 +23,19 @@ Arduino | Spring 2020
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
-https://user-images.githubusercontent.com/54481648/141872876-0b139623-f0f4-4e2b-8064-28f97c8b796c.mov
+### **Valorant Web App**
+Mobile Design/Development | Oct 2021
 
-
+- A web app that displays VALORANT (an firt-person-shooter game from RIOT) characters, their description, and their abilities.
+- Coded in JavaScript and HTML/CSS
+- Use of local storage to navigate between pages
+- Media query used since it was aimed to be on mobile devices
+- [Repo on Github][valorantwebapp].
 
 ## Connect with me
 - Phone: (585) 362-9692 
 - Email: kmo6884@g.rit.edu
 - LinkedIn: [Connect with me][linkedin]!
-
-
 
 
 <br />
@@ -43,3 +46,4 @@ Technical Skills:
 
 [linkedin]: https://www.linkedin.com/in/kalenoyphanith
 [bigbrain]: https://docs.google.com/presentation/d/13K17s_97AfyLZiTc2omqva7LcB6KvNwScjGSTdEghuo/edit#slide=id.gd9b827b7db_0_101
+[valorantwebapp]: https://github.com/kalenoyphanith/valorant-webapp
