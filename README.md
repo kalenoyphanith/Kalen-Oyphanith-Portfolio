@@ -15,12 +15,12 @@ Mobile Development | May 2021
 - This app includes an animation on the home screen and audio for when the timer is up
 - Here is the [case study][bigbrain].
 
-## Projects
 ### **Social Distancing**
 Arduino | Spring 2020
 
 - Watch the final product in action!
-- <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
+<br>
+<a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
 ## Connect with me
