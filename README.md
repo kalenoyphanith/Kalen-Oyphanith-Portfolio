@@ -16,8 +16,7 @@ Mobile Development | May 2021
 - Here is the [case study][bigbrain].
 
 ## Projects
-### **Big Brain**
-Mobile Development | May 2021
+### **Social Distancing**
 Arduino | Spring 2020
 
 - Watch the final product in action!
