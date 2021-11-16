@@ -11,7 +11,6 @@ My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lov
 ### **Big Brain**
 <br/>
 Mobile Development | May 2021
-<br>
 - Currently a senior (4th year) at Rochester Institute of Technology
 - Majoring in New Media Interactive Development (BS)
 - Minoring in Psychology
