@@ -14,7 +14,7 @@
 
 ### About me
 - I am from 📍 Rochester, NY and I love it here even with all the snow.
-- I've been playing the guitar since I was 10 years old and am self taught. 
+- I've been playing the guitar since I was 10 years old and am self-taught. 
 - I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
 
 <br>
