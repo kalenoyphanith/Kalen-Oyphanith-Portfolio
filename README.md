@@ -6,7 +6,7 @@
 
 <img width="140" alt="db69ba4efae2b0c0031b656090eef6cb-sticker" src="https://user-images.githubusercontent.com/54481648/141889323-150b51b5-3fc6-4844-ab6c-2720967ef728.png">
 
-💻 I am a **front-end developer**, musician, and dog lover!
+💻  I am a **front-end developer**, musician, and dog lover!
 
 - Currently a senior (4th year) at **Rochester Institute of Technology**
 - Majoring in **New Media Interactive Development (BS)**
@@ -25,9 +25,9 @@
 ### **Ranked Choice Voting**
 React.js Development | Oct 2021
 
-- An application that enables ranked choice voting.
-- Worked with a team of five designers and two other developers.
-- Coded the onboarding and final submission screens with React.js and react-slick along with all the buttons utilizing carbon design's system and guidelines. 
+- A working application/prototype of a ranked choice voting system for the NYC democratic primary ballot.
+- Collaborated with a team of five designers and two other developers.
+- Coded the onboarding and final submission screens using React.js and react-slick along with creating all the buttons utilizing carbon design's system and guidelines. 
 - ICSS was also utilized to have an organized css structure.
 - See the live demo: [Demo][rcv] - best viewed in 1920x1080 
 
