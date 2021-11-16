@@ -1,7 +1,6 @@
 ## Kalen Oyphanith's Portfolio: Her creations
 
 ## About me
-<hr />
 My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lover!
 
 - Currently a senior (4th year) at Rochester Institute of Technology
@@ -9,8 +8,6 @@ My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lov
 - Minoring in Psychology
 
 ## Projects
-<hr />
-
 ## **Big Brain**
 <br/>
 Mobile Development | May 2021
@@ -18,16 +15,16 @@ Mobile Development | May 2021
 - This app includes an animation on the home screen and audio for when the timer is up
 Here is the [case study][bigbrain].
 
+<hr />
 ## **Social Distancing Arduino**
 <br/>
 Arduino | Spring 2020
+<br>
 Watch the final product in action!
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
 ## Connect with me
-<hr />
-
 - Phone: (585) 362-9692 
 - Email: kmo6884@g.rit.edu
 - LinkedIn: [Connect with me][linkedin]!
