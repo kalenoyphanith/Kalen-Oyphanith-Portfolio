@@ -16,11 +16,12 @@ Mobile Development | May 2021
 Here is the [case study][bigbrain].
 
 <hr />
-## **Social Distancing Arduino**
+## **Social Distancing**
 <br/>
 Arduino | Spring 2020
 <br>
 Watch the final product in action!
+<br>
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
