@@ -46,6 +46,7 @@ HTML Canvas | Mar 2020
 ### **Social Distancing**
 Arduino | Spring 2020
 
+- View my case study: [Blog post][socialdis]
 - Watch the final product in action!
 <br>
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
@@ -70,3 +71,4 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 [audiovis]: https://github.com/kalenoyphanith/audio-visualizer
 [audiovislive]: https://people.rit.edu/kmo6884/330/AudioVisualizer/
 [bigbraincode]: https://github.com/kalenoyphanith/big-brain.git
+[socialdis]: https://kmo6884.wordpress.com/2020/05/05/social-distancing-sensor/
