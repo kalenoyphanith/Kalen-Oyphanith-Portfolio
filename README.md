@@ -23,10 +23,17 @@ Arduino | Spring 2020
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
 alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 
+https://user-images.githubusercontent.com/54481648/141872876-0b139623-f0f4-4e2b-8064-28f97c8b796c.mov
+
+
+
 ## Connect with me
 - Phone: (585) 362-9692 
 - Email: kmo6884@g.rit.edu
 - LinkedIn: [Connect with me][linkedin]!
+
+
+
 
 <br />
 Technical Skills:
