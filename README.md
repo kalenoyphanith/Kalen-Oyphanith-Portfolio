@@ -21,7 +21,7 @@ React.js Development | Oct 2021
 - An application that enables ranked choice voting.
 - Worked with a team of five designers and two other developers.
 - Coded in React.js and icss.
-- See live demo: [Demo][rcv] - best viewed in 1920x1080 
+- See the live demo: [Demo][rcv] - best viewed in 1920x1080 
 
 <hr>
 
