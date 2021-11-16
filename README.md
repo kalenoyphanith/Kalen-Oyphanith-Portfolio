@@ -2,7 +2,7 @@
 
 ## My name is Kalen Oyphanith (Kay-Len Oy-Pah-nith)
 
-I am a Front-end Developer, musician, and dog lover!
+I am a **front-end developer**, musician, and dog lover!
 
 - Currently a senior (4th year) at **Rochester Institute of Technology**
 - Majoring in **New Media Interactive Development (BS)**
@@ -39,6 +39,7 @@ Mobile Design/Development | Oct 2021
 HTML Canvas | Mar 2020
 
 - Created a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs
+- See the live demo: [Demo][audiovislive]
 - View my code: [Repo on Github][audiovis].
 
 ## Extras
@@ -67,4 +68,5 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 [bigbrain]: https://docs.google.com/presentation/d/13K17s_97AfyLZiTc2omqva7LcB6KvNwScjGSTdEghuo/edit#slide=id.gd9b827b7db_0_101
 [valorantwebapp]: https://github.com/kalenoyphanith/valorant-webapp
 [audiovis]: https://github.com/kalenoyphanith/audio-visualizer
+[audiovislive]: https://people.rit.edu/kmo6884/330/AudioVisualizer/
 [bigbraincode]: https://github.com/kalenoyphanith/big-brain.git
