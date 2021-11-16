@@ -2,14 +2,16 @@
 
 ## My name is Kalen Oyphanith (Kay-Len Oy-Pah-nith)
 
-I am a **front-end developer**, musician, and dog lover!
+<img width="140" alt="db69ba4efae2b0c0031b656090eef6cb-sticker" src="https://user-images.githubusercontent.com/54481648/141889323-150b51b5-3fc6-4844-ab6c-2720967ef728.png">
+
+💻 I am a **front-end developer**, musician, and dog lover!
 
 - Currently a senior (4th year) at **Rochester Institute of Technology**
 - Majoring in **New Media Interactive Development (BS)**
 - Minoring in Psychology
 
 ### About me
-- I am from Rochester, NY and I love it here even with all the snow.
+- I am from 📍 Rochester, NY and I love it here even with all the snow.
 - I've been playing the guitar since I was 10 years old and am self taught. 
 - I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
 
