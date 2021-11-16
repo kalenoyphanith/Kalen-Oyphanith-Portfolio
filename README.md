@@ -1,11 +1,17 @@
-## Kalen Oyphanith's Portfolio: Her creations
+# Portfolio: My creations
 
-## About me
-My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lover!
+## My name is Kalen Oyphanith (Kay-Len Oy-Pah-nith)
 
-- Currently a senior (4th year) at Rochester Institute of Technology
-- Majoring in New Media Interactive Development (BS)
+I am a Front-end Developer, musician, and dog lover!
+
+- Currently a senior (4th year) at **Rochester Institute of Technology**
+- Majoring in **New Media Interactive Development (BS)**
 - Minoring in Psychology
+
+### About me
+- I am from Rochester, NY and I love it here even with all the snow.
+- I've been playing the guitar since I was 10 years old and am self taught. 
+- I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
 
 ## Projects
 ### **Big Brain**
@@ -15,6 +21,8 @@ Mobile Development | May 2021
 - This app includes an animation on the home screen and audio for when the timer is up
 - Here is the [case study][bigbrain].
 
+<hr>
+
 ### **Valorant Web App**
 Mobile Design/Development | Oct 2021
 
@@ -23,6 +31,8 @@ Mobile Design/Development | Oct 2021
 - Use of local storage to navigate between pages
 - Media query used since it was aimed to be on mobile devices
 - [Repo on Github][valorantwebapp].
+
+<hr>
 
 ### **Audio Visualizer**
 HTML Canvas | Mar 2020
@@ -44,8 +54,10 @@ alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 - Email: kmo6884@g.rit.edu
 - LinkedIn: [Connect with me][linkedin]!
 
-<br />
-Technical Skills:
+## Resume:
+Link to my Resume: 
+<br>
+Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith/Kalen-Oyphanith-Portfolio/files/7542599/KalenOyphanithResume.pdf)
 
 <br />
 <br />
