@@ -20,8 +20,20 @@ React.js Development | Oct 2021
 
 - An application that enables ranked choice voting.
 - Worked with a team of five designers and two other developers.
-- Coded in React.js and icss.
+- Coded the onboarding and final submission screens with React.js and react-slick along with all the buttons utilizing carbon design's system and guidelines. 
+- ICSS was also utilized to have an organized css structure.
 - See the live demo: [Demo][rcv] - best viewed in 1920x1080 
+
+<hr>
+
+### **Valorant Web App**
+Mobile Design/Development | Oct 2021
+
+- A web app that displays VALORANT (an firt-person-shooter game from RIOT) characters, their description, and their abilities.
+- Coded in JavaScript and HTML/CSS.
+- Use of local storage to navigate between pages.
+- Media query used since it was aimed to be on mobile devices.
+- View my code: [Repo on Github][valorantwebapp].
 
 <hr>
 
@@ -35,14 +47,12 @@ Mobile Development | May 2021
 
 <hr>
 
-### **Valorant Web App**
-Mobile Design/Development | Oct 2021
+### **Fortune 500**
+Data Visualization | May 2021
 
-- A web app that displays VALORANT (an firt-person-shooter game from RIOT) characters, their description, and their abilities.
-- Coded in JavaScript and HTML/CSS.
-- Use of local storage to navigate between pages.
-- Media query used since it was aimed to be on mobile devices.
-- View my code: [Repo on Github][valorantwebapp].
+- Created an interactive data visualization of the top companies in America of 2021
+- Utilized the d3.js library along with JavaScript.
+- See live demo and the code: [Demo][fortune]
 
 <hr>
 
@@ -69,7 +79,7 @@ alt="Social Distancing thumbnail" width="240" height="180" border="10" /></a>
 - LinkedIn: [Connect with me][linkedin]!
 
 ## Resume:
-Link to my Resume: 
+Link to my Resume: [Resume][resumelink]
 <br>
 Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith/Kalen-Oyphanith-Portfolio/files/7542599/KalenOyphanithResume.pdf)
 
@@ -84,3 +94,5 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 [bigbraincode]: https://github.com/kalenoyphanith/big-brain.git
 [socialdis]: https://kmo6884.wordpress.com/2020/05/05/social-distancing-sensor/
 [rcv]: https://g1-rcv01.herokuapp.com/
+[fortune]: https://observablehq.com/d/4b7168c024728814
+[resumelink]: https://people.rit.edu/kmo6884/works-of-art/KalenOyphanithResume.pdf
