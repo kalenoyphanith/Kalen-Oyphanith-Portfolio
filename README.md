@@ -8,15 +8,17 @@ My name is Kalen Oyphanith and I am a Front-end Developer, musician, and dog lov
 - Minoring in Psychology
 
 ## Projects
-## **Big Brain**
+### **Big Brain**
 <br/>
 Mobile Development | May 2021
+<br>
 - A studying app, written in Kotlin with Android Studio, that enables users to make their own flashcards. They can edit or delete pre-existing ones. A timer can be set as well.
+<br>
 - This app includes an animation on the home screen and audio for when the timer is up
 Here is the [case study][bigbrain].
 
 <hr />
-## **Social Distancing**
+### **Social Distancing**
 <br/>
 Arduino | Spring 2020
 <br>
