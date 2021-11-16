@@ -15,8 +15,9 @@ Mobile Development | May 2021
 - This app includes an animation on the home screen and audio for when the timer is up
 - Here is the [case study][bigbrain].
 
-<hr />
-## **Social Distancing**
+## Projects
+### **Big Brain**
+Mobile Development | May 2021
 Arduino | Spring 2020
 
 - Watch the final product in action!
