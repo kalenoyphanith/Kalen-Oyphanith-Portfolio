@@ -14,11 +14,22 @@ I am a **front-end developer**, musician, and dog lover!
 - I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
 
 ## Projects
+
+### **Ranked Choice Voting**
+React.js Development | Oct 2021
+
+- An application that enables ranked choice voting.
+- Worked with a team of five designers and two other developers.
+- Coded in React.js and icss.
+- See live demo: [Demo][rcv] - best viewed in 1920x1080 
+
+<hr>
+
 ### **Big Brain**
 Mobile Development | May 2021
 
 - A studying app, written in Kotlin with Android Studio, that enables users to make their own flashcards. They can edit or delete pre-existing ones. A timer can be set as well.
-- This app includes an animation on the home screen and audio for when the timer is up
+- This app includes an animation on the home screen and audio for when the timer is up.
 - Here is the [case study][bigbrain].
 - View my code: [Repo on GitHub][bigbraincode] - includes my documentation
 
@@ -28,9 +39,9 @@ Mobile Development | May 2021
 Mobile Design/Development | Oct 2021
 
 - A web app that displays VALORANT (an firt-person-shooter game from RIOT) characters, their description, and their abilities.
-- Coded in JavaScript and HTML/CSS
-- Use of local storage to navigate between pages
-- Media query used since it was aimed to be on mobile devices
+- Coded in JavaScript and HTML/CSS.
+- Use of local storage to navigate between pages.
+- Media query used since it was aimed to be on mobile devices.
 - View my code: [Repo on Github][valorantwebapp].
 
 <hr>
@@ -38,9 +49,9 @@ Mobile Design/Development | Oct 2021
 ### **Audio Visualizer**
 HTML Canvas | Mar 2020
 
-- Created a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs
+- Created a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs.
 - See the live demo: [Demo][audiovislive]
-- View my code: [Repo on Github][audiovis].
+- View my code: [Repo on Github][audiovis]
 
 ## Extras
 ### **Social Distancing**
@@ -72,3 +83,4 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 [audiovislive]: https://people.rit.edu/kmo6884/330/AudioVisualizer/
 [bigbraincode]: https://github.com/kalenoyphanith/big-brain.git
 [socialdis]: https://kmo6884.wordpress.com/2020/05/05/social-distancing-sensor/
+[rcv]: https://g1-rcv01.herokuapp.com/
