@@ -20,6 +20,7 @@ Mobile Development | May 2021
 - A studying app, written in Kotlin with Android Studio, that enables users to make their own flashcards. They can edit or delete pre-existing ones. A timer can be set as well.
 - This app includes an animation on the home screen and audio for when the timer is up
 - Here is the [case study][bigbrain].
+- View my code: [Repo on GitHub][bigbraincode] - includes my documentation
 
 <hr>
 
@@ -30,7 +31,7 @@ Mobile Design/Development | Oct 2021
 - Coded in JavaScript and HTML/CSS
 - Use of local storage to navigate between pages
 - Media query used since it was aimed to be on mobile devices
-- [Repo on Github][valorantwebapp].
+- View my code: [Repo on Github][valorantwebapp].
 
 <hr>
 
@@ -38,7 +39,7 @@ Mobile Design/Development | Oct 2021
 HTML Canvas | Mar 2020
 
 - Created a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs
-- [Repo on Github][audiovis].
+- View my code: [Repo on Github][audiovis].
 
 ## Extras
 ### **Social Distancing**
@@ -66,3 +67,4 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 [bigbrain]: https://docs.google.com/presentation/d/13K17s_97AfyLZiTc2omqva7LcB6KvNwScjGSTdEghuo/edit#slide=id.gd9b827b7db_0_101
 [valorantwebapp]: https://github.com/kalenoyphanith/valorant-webapp
 [audiovis]: https://github.com/kalenoyphanith/audio-visualizer
+[bigbraincode]: https://github.com/kalenoyphanith/big-brain.git
