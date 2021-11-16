@@ -65,7 +65,7 @@ HTML Canvas | Mar 2020
 
 ## Extras
 ### **Social Distancing**
-Arduino | Spring 2020
+Arduino | May 2020
 
 - View my case study: [Blog post][socialdis]
 - Watch the final product in action!
