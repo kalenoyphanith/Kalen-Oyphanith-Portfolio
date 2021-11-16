@@ -74,7 +74,7 @@ HTML Canvas | Mar 2020
 ### **Social Distancing**
 Arduino | May 2020
 
-- View my case study: [Blog post][socialdis]
+- View my blog post: [case study][socialdis]
 - Watch the final product in action!
 <br>
 <a href="https://www.youtube.com/watch?v=0ekzd7p4OpE" target="_blank"><img src="http://i3.ytimg.com/vi/0ekzd7p4OpE/maxresdefault.jpg" 
