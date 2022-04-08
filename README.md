@@ -29,6 +29,7 @@ Full Stack Development | Dec 2021
 - Collaborating with five designers and two other developers
 - Created the backend of the app utilizing mongoDB, express.js, and bot.js.
 - Developed the front-end of the ArtTag app using React.js based off the designers' figma prototype.
+- Coded the drawing app in p5.js and transferred the logic to React.js.
 
 <hr>
 
