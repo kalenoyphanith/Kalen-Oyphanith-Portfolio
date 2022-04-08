@@ -12,11 +12,6 @@
 - Majoring in **New Media Interactive Development (BS)**
 - Minoring in Psychology
 
-### About me
-- I am from 📍 Rochester, NY and I love it here even with all the snow.
-- I've been playing the guitar since I was 10 years old and am self-taught. 
-- I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
-
 <br>
 <br>
 
@@ -108,6 +103,11 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 
 <br />
 <br />
+
+### About me
+- I am from 📍 Rochester, NY and I love it here even with all the snow.
+- I've been playing the guitar since I was 10 years old and am self-taught. 
+- I have a Chiweenie dog named Simon (mix of Chihuahua and Dachshund... yes he barks a lot).
 
 [linkedin]: https://www.linkedin.com/in/kalenoyphanith
 [bigbrain]: https://docs.google.com/presentation/d/13K17s_97AfyLZiTc2omqva7LcB6KvNwScjGSTdEghuo/edit#slide=id.gd9b827b7db_0_101
