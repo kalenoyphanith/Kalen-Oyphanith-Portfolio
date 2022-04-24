@@ -34,7 +34,7 @@ React.js Development | Oct 2021
 - Collaborated with a team of five designers and two other developers.
 - Coded the onboarding and final submission screens using React.js and react-slick along with creating all the buttons utilizing carbon design's system and guidelines. 
 - ICSS was also utilized to have an organized CSS structure.
-- See the live demo: [Demo][rcv] - best viewed in 1920x1080 
+- View the code and see the live demo: [Repo][rcvrepo] [Demo][rcv] - best viewed in 1920x1080 
 
 <hr>
 
@@ -118,3 +118,4 @@ Download my Resume: [KalenOyphanithResume.pdf](https://github.com/kalenoyphanith
 [rcv]: https://g1-rcv01.herokuapp.com/
 [fortune]: https://observablehq.com/d/4b7168c024728814
 [resumelink]: https://people.rit.edu/kmo6884/works-of-art/KalenOyphanithResume.pdf
+[rcvrepo] : https://github.com/RCV01/Front
