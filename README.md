@@ -13,7 +13,6 @@
 - Minoring in Psychology
 
 <br>
-<br>
 
 ## Projects
 
