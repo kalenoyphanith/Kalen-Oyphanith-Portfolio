@@ -21,8 +21,8 @@ Full Stack Development | Dec 2021
 
 - Description: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping they explore and discover the artistic expressions of the people around them
 - Collaborating with five designers and two other developers
-- Created the backend of the app utilizing mongoDB, express.js, and bot.js.
-- Developed the front-end of the ArtTag app using React.js based off the designers' figma prototype.
+- Created the backend of the app with another developer utilizing mongoDB, express.js, and bot.js.
+- Helped develop the front-end of the ArtTag app using React.js based off the designers' figma prototype.
 - Coded the drawing app in p5.js and transferred the logic to React.js.
 
 <hr>
