@@ -8,35 +8,13 @@
 
 💻  I am a **front-end developer**, musician, and dog lover!
 
-- Currently a senior (4th year) at **Rochester Institute of Technology**
-- Majoring in **New Media Interactive Development (BS)**
-- Minoring in Psychology
+- An alumnus from **Rochester Institute of Technology**
+- Majored in **New Media Interactive Development (BS)**
+- Minored in Psychology
 
 <br>
 
 ## Projects
-
-### **ArtTag**
-Full Stack Development | Dec 2021
-
-- Description: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping they explore and discover the artistic expressions of the people around them
-- Collaborating with five designers and two other developers
-- Created the backend of the app with another developer utilizing mongoDB, express.js, and bot.js.
-- Helped develop the front-end of the ArtTag app using React.js based off the designers' figma prototype.
-- Coded the drawing app in p5.js and transferred the logic to React.js.
-
-<hr>
-
-### **Ranked-Choice Voting**
-React.js Development | Oct 2021
-
-- A working application/prototype of a ranked-choice voting system for the NYC democratic primary ballot.
-- Collaborated with a team of five designers and two other developers.
-- Coded the onboarding and final submission screens using React.js and react-slick along with creating all the buttons utilizing carbon design's system and guidelines. 
-- ICSS was also utilized to have an organized CSS structure.
-- View the code and see the live demo: [Repo][rcvrepo] [Demo][rcv] - best viewed in 1920x1080 
-
-<hr>
 
 ### **Valorant Web App**
 Mobile Design/Development | Oct 2021
@@ -74,6 +52,28 @@ HTML Canvas | Mar 2020
 - Created a unique interactive audio visualization experience that utilizes the Web Audio and Canvas APIs.
 - See the live demo: [Demo][audiovislive]
 - View my code: [Repo on Github][audiovis]
+
+### **ArtTag**
+Full Stack Development | Dec 2021
+
+- Description: ArtTag, is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping they explore and discover the artistic expressions of the people around them
+- Collaborating with five designers and two other developers
+- Created the backend of the app with another developer utilizing mongoDB, express.js, and bot.js.
+- Helped develop the front-end of the ArtTag app using React.js based off the designers' figma prototype.
+- Coded the drawing app in p5.js and transferred the logic to React.js.
+
+<hr>
+
+### **Ranked-Choice Voting**
+React.js Development | Oct 2021
+
+- A working application/prototype of a ranked-choice voting system for the NYC democratic primary ballot.
+- Collaborated with a team of five designers and two other developers.
+- Coded the onboarding and final submission screens using React.js and react-slick along with creating all the buttons utilizing carbon design's system and guidelines. 
+- ICSS was also utilized to have an organized CSS structure.
+- View the code and see the live demo: [Repo][rcvrepo] [Demo][rcv] - best viewed in 1920x1080 
+
+<hr>
 
 ## Extras
 ### **Social Distancing**
