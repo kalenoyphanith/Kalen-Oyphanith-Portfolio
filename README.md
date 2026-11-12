@@ -1,3 +1,4 @@
+<img width="2532" height="1170" alt="IMG_2370" src="https://github.com/user-attachments/assets/691bd51f-23dc-4d58-9f30-3a00fda83112" />
 # Portfolio: My creations
 
 <br>
@@ -61,6 +62,7 @@ Full Stack Development | Dec 2021
 - Created the backend of the app with another developer utilizing mongoDB, express.js, and bot.js.
 - Helped develop the front-end of the ArtTag app using React.js based off the designers' figma prototype.
 - Coded the drawing app in p5.js and transferred the logic to React.js.
+<img width="2532" height="1170" alt="IMG_2370" src="https://github.com/user-attachments/assets/781b55cf-9e55-4ce7-aa0b-35ac547dbee1" />
 
 <hr>
 
